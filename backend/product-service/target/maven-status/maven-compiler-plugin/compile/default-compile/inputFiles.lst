@@ -1,7 +1,0 @@
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/ProductServiceApplication.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/adapter/in/web/ProductController.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/adapter/out/memory/InMemoryProductRepository.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/application/ProductRepository.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/application/ProductService.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/config/ProductConfiguration.java
-/home/runner/work/katatest/katatest/backend/product-service/src/main/java/com/carrefour/product/domain/Product.java
